@@ -4,8 +4,8 @@
 
 # Site
 title: Bits of Reality
-subtitle: This world is insane... 
-description: Interesting tidbits found on my internet trawls
+subtitle: Akhilesh Yarabarla
+description: There's always more to learn
 author: Akhilesh Yarabarla
 language: en-US
 email: akhileshyarabarla@gmail.com
@@ -13,7 +13,7 @@ email: akhileshyarabarla@gmail.com
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yarabarla.github.io/blog
-root: /
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: simplyian
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
